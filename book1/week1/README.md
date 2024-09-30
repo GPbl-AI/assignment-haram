@@ -14,3 +14,5 @@
 ### 2. 실행 결과
 
 ![alt text](./assets/week1-3.png)
+
+- 코드는 [여기](https://github.com/GPbl-AI/assignment-haram/tree/main/book1/my-express-app)를 확인해주세요!

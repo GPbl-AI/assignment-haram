@@ -6,4 +6,4 @@
 
 ## Book2: 이게 되네? 챗 GPT 미친 활용법 51제
 
-### week1.
+### [link to book2-week2](https://github.com/GPbl-AI/assignment-haram/tree/main/book2/week2)

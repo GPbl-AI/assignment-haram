@@ -87,9 +87,10 @@ function scrapeAnnouncements() {
 }
 ```
 
-### GCC 프로젝트 생성하고 Oauth 동의하기
+### GCC 프로젝트 생성하고 Oauth 동의화면 추가
 
-스프레드 시트 파일을 열 때 마다 코드를 실행시키기 위해 트리거를 생성하려면 구글 클라우드 콘솔에서 프로젝트를 생성하고 Oauth 동의를 해줘야한다.
+스프레드 시트 파일을 열 때 마다 코드를 실행시키기 위해 트리거를 생성하려면 구글 클라우드 콘솔에서 프로젝트를 생성하고 Oauth 동의화면을 생성해줘야한다.
+
 ![alt text](image-12.png)
 ![alt text](image-15.png)
 ![alt text](image-13.png)
